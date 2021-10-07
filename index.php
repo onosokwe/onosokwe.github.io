@@ -1,4 +1,3 @@
-<?php session_start(); include('app/api.php'); ?>
 <!DOCTYPE html>
 <html>
 <head>
